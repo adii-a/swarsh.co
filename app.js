@@ -216,7 +216,7 @@ const appData = {
       "name": "Swarsh Sahu",
       "position": "Founder & CEO",
       "description": "10+ years in digital marketing with expertise in SEO and PPC",
-      "image": "images/founder.jpg"
+      "image": "founder.jpg"
     },
     {
       "name": "Sneha Sharma",
