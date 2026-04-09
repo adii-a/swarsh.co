@@ -138,7 +138,7 @@ const appData = {
   "packages": [
     {
       "name": "Launch Plan",
-      "price": "₹12,499/month",
+      "price": "₹14,999/month",
       "description": "Start driving basic traffic and leads.",
       "services": ["Basic Meta Ads setup", "Single campaign (Lead / Traffic)", "One ad creative", "Basic audience targeting", "Monthly report"],
       "features": ["Basic Meta Ads setup", "Single campaign (Lead / Traffic)", "One ad creative", "Basic audience targeting", "Monthly report"],
@@ -153,16 +153,16 @@ const appData = {
       "ideal": "Growing businesses ready to scale"
     },
     {
-      "name": "Scale Pro",
-      "price": "₹39,999/month",
+      "name": "Professional Marketing Suite",
+      "price": "₹44,999/month",
       "description": "Advanced multi-channel marketing suite.",
       "services": ["Advanced Meta Ads (Scaling)", "Google Ads (Optional add-on mention)", "Funnel & retargeting ads", "Weekly optimization", "Dedicated account manager", "Advanced reporting"],
       "features": ["Advanced Meta Ads (Scaling)", "Google Ads (Optional add-on mention)", "Funnel & retargeting ads", "Weekly optimization", "Dedicated account manager", "Advanced reporting"],
       "ideal": "Established businesses maximizing ROI"
     },
     {
-      "name": "Enterprise 360",
-      "price": "Starting ₹51,000/month",
+      "name": "Enterprise Growth Engine",
+      "price": "Custom Pricing",
       "description": "Complete growth engine for large scale operations.",
       "services": ["Full-funnel paid ads (Meta + Google)", "Custom strategy & creatives", "High-budget ad scaling", "Priority support", "Weekly review calls"],
       "features": ["Full-funnel paid ads (Meta + Google)", "Custom strategy & creatives", "High-budget ad scaling", "Priority support", "Weekly review calls"],
@@ -215,8 +215,8 @@ const appData = {
     {
       "name": "Swarsh Sahu",
       "position": "Founder & CEO",
-      "description": "10+ years in digital marketing with expertise in SEO and PPC",
-      "image": "founder.jpg"
+      "description": "Helping brands grow with data-driven marketing, performance ads, and scalable digital strategies.",
+      "image": "images/founder.jpg"
     },
     {
       "name": "Sneha Sharma",
