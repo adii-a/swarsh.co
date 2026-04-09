@@ -216,7 +216,7 @@ const appData = {
       "name": "Swarsh Sahu",
       "position": "Founder & CEO",
       "description": "Helping brands grow with data-driven marketing, performance ads, and scalable digital strategies.",
-      "image": "images/founder.jpg"
+      "image": "founder.jpg"
     },
     {
       "name": "Sneha Sharma",
