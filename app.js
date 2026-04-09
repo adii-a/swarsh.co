@@ -213,10 +213,10 @@ const appData = {
   ],
   "team": [
     {
-      "name": "Swarsh Sahu",
+      "name": "Hemant Kumar Sahu",
       "position": "Founder & CEO",
       "description": "Helping brands grow with data-driven marketing, performance ads, and scalable digital strategies.",
-      "image": "founder.jpg"
+      "image": "images/founder.jpg"
     },
     {
       "name": "Sneha Sharma",
